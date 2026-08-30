@@ -4,8 +4,9 @@ Completar y hacer crecer en cada entrega. No hace falta prosa larga: oraciones c
 
 ## 1. Grupo y tema
 
-- Tema:
+- Tema:Recetario.
 - Por qué lo eligieron (5–8 líneas):
+- Lo elegimos ya que nos da una variedad amplia para trabajar, es un tema cotidiano de todos e involucra variedad de culturas, costumbres y tradiciones.
 
 ## 2. Modelo
 
